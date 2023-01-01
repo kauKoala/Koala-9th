@@ -30,6 +30,7 @@
 - 모의 테스트 풀이는 Koala 슬랙 - contest에 올라갈 예정입니다.
 [슬랙 링크](https://join.slack.com/t/koala-fkp1564/shared_invite/zt-1c2igfgy9-vPy9hJs14P0auDW0s8gSrg)
 
+
 ## 2. 규칙
 
 ### 미활동 기준
@@ -39,7 +40,7 @@
 - 게시글에 나온 문제 수만큼 풀지 않았을 경우
 - 블로그 포스팅 인증을 하지 않았을 경우
 - 모의 테스트에 참석하지 않았을 경우
-- [출석부 링크](https://kau-algorithm.tistory.com/690)
+- [출석부 링크](https://kau-algorithm.tistory.com/733)
 
 ### 활동비
 
